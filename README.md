@@ -1,5 +1,5 @@
 ACLARACIÓN: 
-El proyecto tiene un fin meramente educativo. No busca inflingir ninguna normativa.
+El proyecto tiene un fin meramente educativo. No busca infligir ninguna normativa.
 
 Web scraping es una técnica utilizada mediante programas de software para extraer información de sitios web. Usualmente, estos programas simulan la navegación de un humano ya sea utilizando el protocolo HTTP manualmente, o incrustando un navegador en una aplicación.
 
